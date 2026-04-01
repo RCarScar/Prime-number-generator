@@ -1,0 +1,16 @@
+﻿  Prime Numbers.cpp
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(17,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(18,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(22,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(23,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(37,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(38,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(42,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(43,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(51,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(52,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(104,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\Prime Numbers.cpp(110,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Prime Numbers.vcxproj -> C:\Users\huner\Documents\GitHub\Prime number generator\Prime Numbers\x64\Debug\Prime Numbers.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
