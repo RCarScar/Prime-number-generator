@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\txtToBinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:txtToBinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Prime Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:Prime Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\garbage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:garbage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\trainingSet.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:trainingSet.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\primeNumbers.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6086DE4-8F89-4023-8B75-87064CC0000B}|Prime Numbers.vcxproj|solutionrelative:primeNumbers.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +46,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Vector2.h",
+              "RelativeDocumentMoniker": "Vector2.h",
+              "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Vector2.h",
+              "RelativeToolTip": "Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-24T08:35:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "garbage.cpp",
+              "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\garbage.cpp",
+              "RelativeDocumentMoniker": "garbage.cpp",
+              "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\garbage.cpp",
+              "RelativeToolTip": "garbage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T08:34:31.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "txtToBinary.cpp",
+              "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\txtToBinary.cpp",
+              "RelativeDocumentMoniker": "txtToBinary.cpp",
+              "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\txtToBinary.cpp",
+              "RelativeToolTip": "txtToBinary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T08:34:11.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trainingSet.txt",
+              "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\trainingSet.txt",
+              "RelativeDocumentMoniker": "trainingSet.txt",
+              "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\trainingSet.txt",
+              "RelativeToolTip": "trainingSet.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-24T08:31:15.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "primeNumbers.bin",
+              "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\primeNumbers.bin",
+              "RelativeDocumentMoniker": "primeNumbers.bin",
+              "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\primeNumbers.bin",
+              "RelativeToolTip": "primeNumbers.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T08:30:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Prime Numbers.cpp",
               "DocumentMoniker": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Prime Numbers.cpp",
               "RelativeDocumentMoniker": "Prime Numbers.cpp",
               "ToolTip": "C:\\Users\\huner\\Documents\\GitHub\\Prime number generator\\Prime Numbers\\Prime Numbers.cpp",
               "RelativeToolTip": "Prime Numbers.cpp",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-01T04:16:28.882Z",
               "EditorCaption": ""
